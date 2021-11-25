@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <a href="https://github.com/vitorguastala"> </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorguastala&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorguastala&theme=gotham"/>
-<div>
-  
-
 <center>
 <code>
 <p>
